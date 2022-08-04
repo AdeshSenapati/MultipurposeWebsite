@@ -11,7 +11,7 @@ export default function MainContent() {
 	"method": "GET",
 	"headers": {
 		"x-rapidapi-host": "free-to-play-games-database.p.rapidapi.com",
-		"x-rapidapi-key": "bbe9bd0a92msha3b2a9e9b7741c3p1fb271jsn14c65f03696a"
+		"x-rapidapi-key": ""
 	}
 })
 .then(res => res.json())
